@@ -1,0 +1,2 @@
+class Skater(Player):
+    
